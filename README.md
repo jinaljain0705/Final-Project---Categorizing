@@ -275,6 +275,11 @@ int main() {
 ```
 
 Output:
+![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-1.png)
+![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-2.png)
+![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-3.png)
+![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-4.png)
+![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-5.png)
 PS D:\Final Project - Categorizing> g++ categorizing.cpp
 PS D:\Final Project - Categorizing> ./a.exe
 === Categorizing App ===
@@ -468,8 +473,3 @@ Enter choice: 4
 Thank you for using the Categorizing App!
 PS D:\Final Project - Categorizing> & 'd:\Final Project - Categorizing\categorizing.cpp'
 PS D:\Final Project - Categorizing>
-![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-1.png)
-![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-2.png)
-![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-3.png)
-![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-4.png)
-![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-5.png)
