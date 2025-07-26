@@ -471,5 +471,5 @@ PS D:\Final Project - Categorizing>
 ![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-1.png)
 ![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-2.png)
 ![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-3.png)
-![categorozing]()
+![categorozing](https://github.com/jinaljain0705/Final-Project---Categorizing/blob/main/Output/Output-4.png)
 ![categorozing]()
