@@ -289,6 +289,7 @@ PS D:\Final Project - Categorizing> ./a.exe
 3. Binary Search
 4. Exit
 Enter choice: 1
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -298,6 +299,7 @@ Enter choice: 1
 Choice: 1
 Enter value to insert: 1
 Inserted: 1
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -307,6 +309,7 @@ Inserted: 1
 Choice: 1
 Enter value to insert: 2
 Inserted: 2
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -316,6 +319,7 @@ Inserted: 2
 Choice: 1
 Enter value to insert: 3
 Inserted: 3
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -325,6 +329,7 @@ Inserted: 3
 Choice: 1
 Enter value to insert: 4
 Inserted: 4
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -334,6 +339,7 @@ Inserted: 4
 Choice: 1
 Enter value to insert: 4
 Inserted: 4
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -343,6 +349,7 @@ Inserted: 4
 Choice: 1
 Enter value to insert: 5
 Inserted: 5
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -352,6 +359,7 @@ Inserted: 5
 Choice: 2
 Enter value to delete: 3
 Deleted.
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -362,6 +370,7 @@ Choice: 3
 Enter old value: 1    
 Enter new value: 2
 Updated.
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -369,7 +378,8 @@ Updated.
 4. Display
 5. Back
 Choice: 4
-Linked List: 2 2 4 4 5 
+Linked List: 2 2 4 4 5
+
 -- Linked List Menu --
 1. Insert
 2. Delete
@@ -377,6 +387,7 @@ Linked List: 2 2 4 4 5
 4. Display
 5. Back
 Choice: 5
+
 === Categorizing App ===
 1. Linked List Operations
 2. Sort Array (Merge or Quick)
@@ -392,7 +403,8 @@ Enter elements: 9
 1. Merge Sort
 2. Quick Sort
 Choose sorting method: 1
-Sorted Array: 0 1 2 8 9 
+Sorted Array: 0 1 2 8 9
+
 === Categorizing App ===
 1. Linked List Operations
 2. Sort Array (Merge or Quick)
@@ -412,6 +424,7 @@ Enter elements: 7
 2. Quick Sort
 Choose sorting method: 2
 Sorted Array: 2 3 4 5 6 7 9 45
+
 === Categorizing App ===
 1. Linked List Operations
 2. Sort Array (Merge or Quick)
@@ -420,6 +433,7 @@ Sorted Array: 2 3 4 5 6 7 9 45
 Enter choice: 3
 Choose sorting method: 2
 Sorted Array: 2 3 4 5 6 7 9 45
+
 === Categorizing App ===
 1. Linked List Operations
 2. Sort Array (Merge or Quick)
@@ -433,6 +447,7 @@ Enter sorted elements: 2
 5
 Choose sorting method: 2
 Sorted Array: 2 3 4 5 6 7 9 45
+
 === Categorizing App ===
 1. Linked List Operations
 2. Sort Array (Merge or Quick)
@@ -465,6 +480,7 @@ Enter sorted elements: 2
 6
 Enter value to search: 4
 Value found at index 2
+
 === Categorizing App ===
 1. Linked List Operations
 2. Sort Array (Merge or Quick)
